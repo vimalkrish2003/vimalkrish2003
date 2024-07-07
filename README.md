@@ -1,7 +1,7 @@
 # Hi there, I'm Vimal 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vimalkrish2003&color=brightgreen)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vimalkrish2003.vimalkrish2003)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vimalkrish2003)
 
 ## 🚀 About Me
 I am a Computer Science Engineering student from India, passionate about technology and always eager to learn more. Currently, I'm working on **LearnLink**, a platform designed to enhance the learning experience by linking learners with the right resources.
